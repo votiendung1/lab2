@@ -31,7 +31,7 @@ class IamRich extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
             Image(
-              image: AssetImage("images/1297123.png"),
+              image: AssetImage("images/kimcuong.png"),
               width: 350,
             ),
           ],
