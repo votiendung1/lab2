@@ -32,7 +32,7 @@ class IamRich extends StatelessWidget {
             children: [
             Image(
               image: AssetImage("images/kimcuong.png"),
-              width: 350,
+              width: 350, 
             ),
           ],
           ),
